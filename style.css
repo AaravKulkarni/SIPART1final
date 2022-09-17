@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(169, 210, 109, 0.9);
+}
+#scoresomething{
+    font-size: 20px;
+    margin-left: 90px;
+}
+#timersummin{
+    font-size: 20px;
+    float: right;
+    margin-right: 90px;
+}
+#sketchtodraw{
+    color: brown;
+}
